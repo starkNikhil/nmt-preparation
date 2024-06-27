@@ -1,8 +1,4 @@
 numpy
 pandas
-codecs
 subword_nmt
-csv
-re
-sys
 tokenizers
